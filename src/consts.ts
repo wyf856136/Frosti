@@ -8,11 +8,11 @@ export const SITE_DESCRIPTION = "A blog template";
 export const DATE_FORMAT = "ddd MMM DD YYYY";
 
 // User profile information
-export const USER_NAME = "EveSunMaple";
+export const USER_NAME = "橘外人";
 export const USER_AVATAR = "/profile.webp";
 
 // Server and transition settings
-export const SERVER_URL = "https://demo.saroprock.com";
+export const SERVER_URL = "https://yingxue.us.kg/";
 
 // Some informative text on the site
 export const infoTest = {
@@ -94,13 +94,13 @@ export const socialIcons = [
     svg: "support",
   },
   {
-    href: "https://github.com/EveSunMaple",
+    href: "https://github.com/wyf856136",
     ariaLabel: "Github",
     title: "Github",
     svg: "github",
   },
   {
-    href: "https://space.bilibili.com/438392347",
+    href: "https://space.bilibili.com/397708537",
     ariaLabel: "BiliBili",
     title: "BiliBili",
     svg: "bilibili",
